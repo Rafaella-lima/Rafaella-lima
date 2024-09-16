@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 atualmente estou cursando fazendo curso de programação<br>🎯 objetivos: entrar na faculdade<br>🎲 curiosidades: tenho 16 anos, amo ouvie orochi e fazer atividades fisicas</p>
+<p align="left">📚 atualmente estou cursando fazendo curso de programação<br>🎯 objetivos: entrar na faculdade<br>🎲 curiosidades: tenho 16 anos, amo ouvir orochi e fazer atividades fisicas</p>
 
 ###
 
